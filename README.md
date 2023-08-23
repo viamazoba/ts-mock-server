@@ -48,10 +48,10 @@ Response:
 		"id": 3,
 		"todo": "task3"
 	},
-    {
-        "id": 4,
-        "todo": "task4"
-    }
+	{
+	        "id": 4,
+	        "todo": "task4"
+	}
 ]
 ```
 
@@ -79,10 +79,10 @@ Response:
 		"id": 3,
 		"todo": "task3"
 	},
-    {
-        "id": 4,
-        "todo": "task4_test"
-    }
+    	{
+        	"id": 4,
+        	"todo": "task4_test"
+        }
 ]
 ```
 - As suggestion, manage error operations, i.e. any task not found or deletion error.
